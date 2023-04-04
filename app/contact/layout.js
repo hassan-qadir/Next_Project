@@ -1,10 +1,9 @@
-import './globals.css'
 export const metadata = {
-  title: 'Products',
+  title: 'Contact',
 }
-
-export default function RootLayout({children }) {
-  return (
+ 
+export default function ContactLayout({ children }) {
+ return (
     <html lang="en">
       <body>
         {children}
