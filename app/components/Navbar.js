@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
  <header className="relative">
    <p className="flex h-10 items-center justify-center bg-indigo-300 px-4 text-sm font-medium text-white sm:px-6 lg:px-8">Get free delivery on orders over $100</p>
-   <nav className="bg-gray-600">
+   <nav className="bg-gray-400">
   <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
     <div className="relative flex h-16 items-center justify-between">
       <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
